@@ -1,0 +1,36 @@
+{
+  "name": "albruh_u",
+  "twitch": "albruh_u",
+  "avatar": "assets/avatar.jpg",
+  "tagline": "Come hang out on stream",
+  "bio": "",
+
+  "theme": {
+    "primary": "#a855f7",
+    "accent": "#ec4899",
+    "glow": "#14b8a6"
+  },
+
+  "featured": [
+    { "title": "Follow", "text": "Get pinged the second I go live.", "url": "https://twitch.tv/albruh_u" },
+    { "title": "Website", "text": "My corner of the internet.", "url": "https://albruh.tech" }
+  ],
+
+  "links": [
+    { "label": "Twitch", "url": "https://twitch.tv/albruh_u" },
+    { "label": "X / Twitter", "url": "https://x.com/albruh_u" },
+    { "label": "Instagram", "url": "https://instagram.com/albruh.u" },
+    { "label": "albruh.tech", "url": "https://albruh.tech" }
+  ],
+
+  "schedule": [],
+
+  "ticker": [
+    "Follow for the next one",
+    "Drop your clips in chat",
+    "GG WP everyone",
+    "See you next time"
+  ],
+
+  "credit": true
+}
