@@ -2,7 +2,7 @@
 
 A free, one-page link site for your stream. Everything about you lives in **one file: `config.json`**.
 
-Live example: albruh_u's page (this repo).
+Live example: https://albuhrrito.github.io/albruh_u/
 
 ## Change your page (no coding)
 
